@@ -1,0 +1,2 @@
+# THI algorithms AI
+Welcome to the Technische Hochschule Ingolstadt (THI) AI Projects Repository! This repository contains a collection of AI projects developed during the AI3 course at technische hochschule ingolstadt (THI). The projects cover a wide range of topics in artificial intelligence, including machine learning, computer vision, natural language processing, robotics, and more. Each project in this repository includes a detailed description of the problem addressed, the approach taken, the results achieved, and the code used.

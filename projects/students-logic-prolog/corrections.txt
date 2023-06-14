@@ -1,0 +1,1 @@
+precisa colocar os nomes dos estudantes em letras minusculas e precisa colocar as condições do puzzle em um unico header separado por comma
